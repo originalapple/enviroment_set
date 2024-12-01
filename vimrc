@@ -26,6 +26,7 @@ set statusline=\ %<%l:%v\ [%P]%=%a\ %h%m%r\ %F\
 set guioptions-=T
 set nowrap
 "set cursorline
+set mouse=a
 
 "set list
 "set list listchars=set nocompatible              " be iMproved, required
